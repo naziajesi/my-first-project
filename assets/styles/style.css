@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#hero{
+    /* Frame 2087325504 */
+
+
+  width: 1365px;
+   margin: 0 auto;
+   
+}
+#hero .container{
+    height: 350px;
+    width: 800px;
+    margin-left: 70px;
+    margin-right: 50px;
+    background-color: aqua;
+    display: flex;
+    margin-top: 100px;
+    gap: 20px;
+    border-radius: 15px;
+    
+
+}
+#hero .container .subtitle{
+
+    color: rgba(128, 128, 128, 0.833);
+    font-family: Fira Sans;
+    font-size: 14px;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;
+  
+}
+#hero .container .title{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 30px;
+    font-weight: 150px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+#hero .container .connect{
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 14px;
+   font-weight: 600;
+   line-height: 22px;
+   letter-spacing: 0%;
+   text-align: left;
+   margin-top: 10px;
+   background-color: green;
+   border: none;
+   border-radius: 15px;
+   padding: 10px;
+}
+#hero .container .contant{
+     padding: 40px 50px 40px 50px; 
+}
+#card-box{
+    width: 1280px;
+    height: 565px;
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+#card-box .container .subtitle{
+    
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+    
+}
+#card-box .container .describe{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 24px;
+   letter-spacing: 0%;
+   text-align: left;
+}
+#card-box .digital-card-box{
+    /* background-color: aquamarine; */
+    margin-top: 10px;
+    box-sizing: border-box;
+    border-radius: 16px;
+
+   background: rgba(84, 144, 245, 0.2);
+   margin-right: 20px;
+   padding: 30px;
+  
+}
+#card-box .green-card-box{
+    /* background-color: aquamarine; */
+    margin-top: 10px;
+    box-sizing: border-box;
+    border-radius: 16px;
+   background: rgba(84, 144, 245, 0.2);
+   margin-right: 20px;
+   padding: 30px;
+  
+}
+#card-box .modern-card-box{
+    /* background-color: aquamarine; */
+    margin-top: 10px;
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgb(247, 235, 207);
+    margin-right: 20px;
+    padding: 30px;
+  
+   
+}
+
+
+#card-box .digital-card-box .title{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 10px;
+   font-weight: 700;
+   line-height: 16px;
+   letter-spacing: 0%;
+   text-align: left;
+}
+#card-box .digital-card-box .content{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 12px;
+    font-weight: 400;
+   line-height: 20px;
+   letter-spacing: 0%;
+   text-align: left;
+   gap: 24px;
+   
+}
+#card-box .green-card-box .title{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 10px;
+   font-weight: 700;
+   line-height: 16px;
+   letter-spacing: 0%;
+   text-align: left;
+}
+#card-box .green-card-box .content{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 12px;
+    font-weight: 400;
+   line-height: 20px;
+   letter-spacing: 0%;
+   text-align: left;
+   gap: 24px;
+   
+}
+#card-box .modern-card-box .title{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 10px;
+   font-weight: 700;
+   line-height: 16px;
+   letter-spacing: 0%;
+   text-align: left;
+}
+#card-box .modern-card-box .content{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 12px;
+    font-weight: 400;
+   line-height: 20px;
+   letter-spacing: 0%;
+   text-align: left;
+   gap: 24px;
+   
+}
+#card-box .digital-card-box .connect{
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 12px;
+   font-weight: 600;
+   line-height: 19px;
+   letter-spacing: 0%;
+   text-align: left;
+   border-radius: 5px;
+   background: rgb(84, 144, 245);
+   padding: 3px;
+   border: none;
+   
+}
+#card-box .green-card-box .connect{
+     
+
+   color: rgb(255, 255, 255);
+   font-family: Fira Sans;
+   font-size: 12px;
+   font-weight: 600;
+   line-height: 19px;
+   letter-spacing: 0%;
+   text-align: left;
+   border-radius: 5px;
+  background: rgb(9, 161, 92);
+  padding: 3px;
+  border: none;
+}
+#card-box .modern-card-box .connect{
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    border-radius: 5px;
+    background: rgb(255, 194, 57);
+   padding: 3px;
+   border: none;
+}
+#card-box .card-box-container{
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    justify-content: flex-start;
+    
+}
+
+
+
+
