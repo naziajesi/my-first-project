@@ -443,6 +443,156 @@ body{
     margin-top: 10px;
 }
 
+#donate{
+    width: 1480px;
+    height: 464px;
+    
+}
+#donate .donate-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 50px; 
+    /* background-color: rgb(148, 148, 237); */
+    width: 1280px;
+    height: 464px;
+    
+}
+#donate .donate-container .title{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+#donate .donate-container .describe{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+#donate .donate-container .title1 .title2 .title3 .title4{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin-bottom: 40px;
+    
+    
+}
+#donate .donate-container .title1{
+      
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    
+    background: rgb(255, 255, 255);
+    width: 150px;
+    height: 100px;
+     padding-left: 30px;
+     padding-top: 40px;
+
+
+}
+#donate .donate-container .title3{
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    
+    background: rgb(255, 255, 255);
+    width: 150px;
+    height: 100px;
+    padding-left: 30px;
+    padding-top: 40px;
+}
+#donate .donate-container .title4{
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    
+    background: rgb(255, 255, 255);
+    width: 150px;
+    height: 100px;
+    padding-left: 30px;
+    padding-top: 40px;
+}
+#donate .donate-container .title2{
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    
+    background: rgb(198, 228, 214);
+
+    width: 150px;
+    height: 100px;
+     padding-left: 30px;
+     padding-top: 40px;
+}
+
+#donate .donate-container .title-box{
+    width: 1071px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+   align-items: center;
+    margin-top: 20px;
+    gap: 10px;
+}
+#donate .donate-container .field{
+    width: 632px;
+    height: 54px;
+   display: flex;
+   justify-content: center;
+   margin-top: 30px;
+   box-sizing: border-box;
+   border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+   background: rgb(255, 255, 255);
+    
+}
+#donate .donate-container .field .text{
+  color: rgba(14, 14, 14, 0.3);
+  font-family: Fira Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+  border: none;
+}
+#donate .donate-container .connect{
+
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.1);
+    border-radius: 5px;
+    
+    background: rgb(106, 80, 0);
+    margin-top: 15px;
+    width: 101px;
+    height: 50px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border: none;
+}
 
 
 
